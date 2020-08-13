@@ -1,0 +1,13 @@
+C:\Users\pablo\source\repos\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.exe
+C:\Users\pablo\source\repos\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.deps.json
+C:\Users\pablo\source\repos\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.runtimeconfig.json
+C:\Users\pablo\source\repos\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.dll
+C:\Users\pablo\source\repos\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.pdb
+C:\Users\pablo\source\repos\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.AssemblyInfo.cs
+C:\Users\pablo\source\repos\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.dll
+C:\Users\pablo\source\repos\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.pdb
+C:\Users\pablo\source\repos\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.genruntimeconfig.cache
